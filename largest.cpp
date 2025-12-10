@@ -1,6 +1,9 @@
-// Approach 1 : - Sort the array return the last element
+/* Approach 1 : - Sort the array return the last element
+TC- O(nlogn)
 
-// Approach 2 : - Go through array compare each element until you get the max
+ Approach 2 : - Go through array compare each element until you get the max
+ TC- O(n)
+ */
 
 
 
