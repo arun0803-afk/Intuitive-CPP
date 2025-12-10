@@ -1,3 +1,9 @@
+// Approach 1 : - Sort the array return the last element
+
+// Approach 2 : - Go through array compare each element until you get the max
+
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
